@@ -13,13 +13,16 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  array.first
+  entre = array.first
+  entre
 end
 
 def using_last(array)
-  array.last
+  fin = array.last
+  fin
 end
 
 def using_size(array)
-  array.size
+  size = array.size
+  size
 end
